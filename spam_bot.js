@@ -1,9 +1,9 @@
 // ==UserScript==
-// @name         PTTW Custom (спам-бот + автоответчик) Final ClearWhisper
-// @namespace    https://github.com/pttw-dev/pttw
-// @version      2.0.3
-// @description  Полный API PTTW + автоответчик (выход из ЛС через /clearwhisperchat, без определения ника, с логами)
-// @author       Кью (мод. PTTW)
+// @name         Custom (спам-бот + автоответчик) Final ClearWhisper
+// @namespace    t.me/Qwerlo
+// @version      2.0.4
+// @description  Полный API
+// @author       Кью
 // @match        http://*.pony.town/*
 // @match        https://*.pony.town/*
 // @icon         https://pony.town/favicon-32x32.png
